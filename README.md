@@ -20,7 +20,7 @@ Beyond Comcast, I negotiated and launched OEM partnerships with Google (Google S
 
 ## Global Reach
 
-My work has never been confined to one region. Over the course of my career I have built and managed partnerships across North America, Latin America, EMEA, and APJ — spending meaningful time on the ground in California, Seattle, New York, Washington DC, Tokyo, London, and across the Middle East, Africa, and Asia Pacific. The WatchGuard partnership was built for and run through their EMEA and APJ markets. Alliance work at this level requires understanding how business gets done differently in each region — and I've had to learn that firsthand, not from a playbook.
+My work has never been confined to one region. Over the course of my career I have built and managed partnerships across North America, Latin America, EMEA, and APJ — spending meaningful time on the ground in California, Seattle, New York, Washington DC, Tokyo, and London. The WatchGuard partnership was built for and run through their EMEA and APJ markets. Alliance work at this level requires understanding how business gets done differently in each region — and I've had to learn that firsthand, not from a playbook.
 
 ## Enterprise & Co-Sell
 
